@@ -24,12 +24,18 @@
     <ClCompile Include="SpecializationClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TemplateTemplatParams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TypeWrapper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SpecializationClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TemplateTemplatParams.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClCompile Include="CPP_STL_Training.cpp" />
     <ClCompile Include="SpecializationClass.cpp" />
+    <ClCompile Include="TemplateTemplatParams.cpp" />
     <ClCompile Include="TypeWrapper.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SpecializationClass.h" />
+    <ClInclude Include="TemplateTemplatParams.h" />
     <ClInclude Include="TypeWrapper.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
