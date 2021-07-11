@@ -27,6 +27,9 @@
     <ClCompile Include="TemplateTemplatParams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="VariadicTemplate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TypeWrapper.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TemplateTemplatParams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VariadicTemplate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

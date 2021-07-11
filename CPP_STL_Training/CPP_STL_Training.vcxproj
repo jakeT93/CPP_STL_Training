@@ -143,11 +143,13 @@
     <ClCompile Include="SpecializationClass.cpp" />
     <ClCompile Include="TemplateTemplatParams.cpp" />
     <ClCompile Include="TypeWrapper.cpp" />
+    <ClCompile Include="VariadicTemplate.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SpecializationClass.h" />
     <ClInclude Include="TemplateTemplatParams.h" />
     <ClInclude Include="TypeWrapper.h" />
+    <ClInclude Include="VariadicTemplate.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
