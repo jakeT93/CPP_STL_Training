@@ -143,6 +143,7 @@
     <ClCompile Include="PingPongThreads.cpp" />
     <ClCompile Include="semaphore.cpp" />
     <ClCompile Include="SpecializationClass.cpp" />
+    <ClCompile Include="StreamIteratorAdaptor.cpp" />
     <ClCompile Include="TemplateTemplatParams.cpp" />
     <ClCompile Include="TypeWrapper.cpp" />
     <ClCompile Include="VariadicTemplate.cpp" />
@@ -151,6 +152,7 @@
     <ClInclude Include="PingPongThreads.h" />
     <ClInclude Include="semaphore.h" />
     <ClInclude Include="SpecializationClass.h" />
+    <ClInclude Include="StreamIteratorAdaptor.h" />
     <ClInclude Include="TemplateTemplatParams.h" />
     <ClInclude Include="TypeWrapper.h" />
     <ClInclude Include="VariadicTemplate.h" />

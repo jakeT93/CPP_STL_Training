@@ -4,6 +4,7 @@
 #include <deque>
 #include <list>
 
+#define __PRETTY_FUNCTION__ " "
 using namespace std;
 
 /**
